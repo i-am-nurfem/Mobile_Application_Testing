@@ -1,4 +1,4 @@
-package hepsiburada_MA_First;
+package Mobile_Application_Testing;
 
 /**
  * Hello world!
